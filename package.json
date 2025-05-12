@@ -2,13 +2,17 @@
   "name": "wik--dps-tp01",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "",
+  "bugs": {},
   "description": "",
   "devDependencies": {
     "@types/node": "^22.13.14",
